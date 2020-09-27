@@ -1,4 +1,4 @@
-# aphoedite-test
+# front-test
 
 ## Project setup
 ```
